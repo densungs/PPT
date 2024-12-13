@@ -1,0 +1,528 @@
+<html>
+  <head>
+    <title>Code Review :: </title>
+    <style type="text/css">
+    .body{background-color:White;}
+    .summary{width:100%;font-weight:bold;background-color:White;border: thin solid #808000;color:#FAFCFE}
+    .outer{font-weight:normal;color:#6D5757;background-color:#FFDFBF}
+    .inner{font-weight:normal;color:black;}
+    .reviewTable{border: thin solid #C0C0C0; width:100%}
+    .headerRow{color:white;background-color: #800000;font-weight:bold;text-align: center}
+    .reviewRow{background-color:#FFDFBF;color:black;}
+    .rAligned{text-align:right;}
+    .data{visibility:hidden}
+  </style>
+  </head>
+  <body class="body">
+    <div class="summary">
+      <table>
+        <tr>
+          <td colspan="3" class="headerRow">Review Summary</td>
+        </tr>
+        <tr class="outer">
+          <td>Project Name : <label class="inner" /></td>
+          <td>Reviewed By : <label class="inner" /></td>
+        </tr>
+        <tr class="outer">
+          <td>Project Code : <label class="inner" /></td>
+          <td>Reviewed Date : <label class="inner" /></td>
+        </tr>
+        <tr class="outer">
+          <td>Work Product Name : <label class="inner" /></td>
+          <td>Status : <label class="inner" /></td>
+        </tr>
+        <tr class="outer">
+          <td>Work Product Version : <label class="inner" /></td>
+          <td>Review Preparation Effort : <label class="inner" /></td>
+        </tr>
+        <tr class="outer">
+          <td>Work Product Size (ekloc) : <label class="inner" /></td>
+          <td>Review effort : <label class="inner" /></td>
+        </tr>
+        <tr class="outer">
+          <td>Work Product Release Date for Review : <label class="inner" /></td>
+          <td>Rework effort : <label class="inner" /></td>
+        </tr>
+        <tr class="outer">
+          <td>Review Action Taken By : <label class="inner" /></td>
+          <td>Review Efficiency : <label class="inner">NaN</label></td>
+        </tr>
+        <tr class="outer">
+          <td>Review Action Taken Date : <label class="inner" /></td>
+          <td />
+        </tr>
+      </table>
+      <table>
+        <tr class="headerRow">
+          <td colspan="2">Review Details</td>
+          <td colspan="2">Defect Status Analysis</td>
+          <td colspan="2">Defect Type Analysis</td>
+          <td colspan="4">Defect Injected Phase Analysis</td>
+        </tr>
+        <tr class="outer">
+          <td />
+          <td />
+          <td />
+          <td />
+          <td />
+          <td />
+          <td />
+          <td>Major</td>
+          <td>Medium</td>
+          <td>Minor</td>
+        </tr>
+        <tr class="outer">
+          <td>Total No of Suggestions</td>
+          <td class="inner">0</td>
+          <td>Open</td>
+          <td class="inner">0</td>
+          <td>Logical</td>
+          <td class="inner">0</td>
+          <td>Initial Project Setup</td>
+          <td class="inner">0</td>
+          <td class="inner">0</td>
+          <td class="inner">0</td>
+        </tr>
+        <tr class="outer">
+          <td>Total No of Errors</td>
+          <td class="inner">0</td>
+          <td>On Hold</td>
+          <td class="inner">0</td>
+          <td>Incomplete</td>
+          <td class="inner">0</td>
+          <td>Project Initiation</td>
+          <td class="inner">0</td>
+          <td class="inner">0</td>
+          <td class="inner">0</td>
+        </tr>
+        <tr class="outer">
+          <td>Total</td>
+          <td class="inner">0</td>
+          <td>Closed</td>
+          <td class="inner">0</td>
+          <td>UI</td>
+          <td class="inner">0</td>
+          <td>Requirement Analysis</td>
+          <td class="inner">0</td>
+          <td class="inner">0</td>
+          <td class="inner">0</td>
+        </tr>
+        <tr class="outer">
+          <td />
+          <td />
+          <td>Rejected</td>
+          <td class="inner">0</td>
+          <td>Exception Handling</td>
+          <td class="inner">0</td>
+          <td>Architecture and Design</td>
+          <td class="inner">0</td>
+          <td class="inner">0</td>
+          <td class="inner">0</td>
+        </tr>
+        <tr class="outer">
+          <td />
+          <td />
+          <td />
+          <td />
+          <td>Documentation</td>
+          <td class="inner">0</td>
+          <td>Implementation</td>
+          <td class="inner">0</td>
+          <td class="inner">0</td>
+          <td class="inner">0</td>
+        </tr>
+        <tr class="outer">
+          <td />
+          <td />
+          <td />
+          <td />
+          <td />
+          <td class="inner" />
+          <td>QA Testing</td>
+          <td class="inner">0</td>
+          <td class="inner">0</td>
+          <td class="inner">0</td>
+        </tr>
+        <tr class="outer">
+          <td />
+          <td />
+          <td />
+          <td />
+          <td />
+          <td class="inner" />
+          <td>Transition Phase</td>
+          <td class="inner">0</td>
+          <td class="inner">0</td>
+          <td class="inner">0</td>
+        </tr>
+        <tr class="outer">
+          <td />
+          <td />
+          <td />
+          <td />
+          <td />
+          <td />
+          <td class="rAligned">Total</td>
+          <td class="inner">0</td>
+          <td class="inner">0</td>
+          <td class="inner">0</td>
+        </tr>
+      </table>
+    </div>
+    <br />
+    <table class="reviewTable">
+      <tr class="headerRow">
+        <td>#</td>
+        <td>Description</td>
+        <td>Status</td>
+        <td>DefectType</td>
+        <td>InjectedPhase</td>
+      </tr>
+    </table>
+    <div>
+      <br />
+    Created with <a href="http://visualstudiogallery.msdn.microsoft.com/d1e40c49-da36-42a5-8d5a-4ebe1feabbc9">ReviewPal</a></div>
+    <div class="data">
+      <Data id="ReviewPalData">
+        <CodeReview xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+          <Reviews>
+            <Smell>
+              <Id>1</Id>
+              <SmellType>Feature Envy(依戀情節)</SmellType>
+              <HashCode>135 目前物件 PowerPoint.Model，使用物件的方法或屬性次數：0次，Envy到對象物件 PowerPoint.IState，使用物件方法或屬性次數：2次，使用到的方法或屬性為以下：PowerPoint.IState.MousePressed(string, double, double) 以及 PowerPoint.IState.MousePressed(string, double, double)</HashCode>
+              <Severity>Warning</Severity>
+              <Weight>1</Weight>
+              <Project>PPT</Project>
+              <File>C:\Users\densu\Desktop\視窗\製作HW6\PPT\PPT\Model\Model.cs</File>
+              <Line>135</Line>
+              <StartLine>134</StartLine>
+              <StartCol>0</StartCol>
+              <EndLine>135</EndLine>
+              <EndCol>0</EndCol>
+              <Comment>目前物件 PowerPoint.Model，使用物件的方法或屬性次數：0次，Envy到對象物件 PowerPoint.IState，使用物件方法或屬性次數：2次，使用到的方法或屬性為以下：PowerPoint.IState.MousePressed(string, double, double) 以及 PowerPoint.IState.MousePressed(string, double, double)</Comment>
+              <Auto>false</Auto>
+            </Smell>
+            <Smell>
+              <Id>2</Id>
+              <SmellType>Feature Envy(依戀情節)</SmellType>
+              <HashCode>136 目前物件 PowerPoint.Model，使用物件的方法或屬性次數：0次，Envy到對象物件 PowerPoint.Shape，使用物件方法或屬性次數：3次，使用到的方法或屬性為以下：PowerPoint.Shape.GetStartPoint() 以及 PowerPoint.Shape.GetEndPoint() 以及 PowerPoint.Shape.SetPosition(PowerPoint.Point, PowerPoint.Point)</HashCode>
+              <Severity>Red</Severity>
+              <Weight>1</Weight>
+              <Project>PPT</Project>
+              <File>C:\Users\densu\Desktop\視窗\製作HW6\PPT\PPT\Model\Model.cs</File>
+              <Line>136</Line>
+              <StartLine>135</StartLine>
+              <StartCol>0</StartCol>
+              <EndLine>136</EndLine>
+              <EndCol>0</EndCol>
+              <Comment>目前物件 PowerPoint.Model，使用物件的方法或屬性次數：0次，Envy到對象物件 PowerPoint.Shape，使用物件方法或屬性次數：3次，使用到的方法或屬性為以下：PowerPoint.Shape.GetStartPoint() 以及 PowerPoint.Shape.GetEndPoint() 以及 PowerPoint.Shape.SetPosition(PowerPoint.Point, PowerPoint.Point)</Comment>
+              <Auto>false</Auto>
+            </Smell>
+            <Smell>
+              <Id>3</Id>
+              <SmellType>Feature Envy(依戀情節)</SmellType>
+              <HashCode>137 目前物件 PowerPoint.Model，使用物件的方法或屬性次數：0次，Envy到對象物件 PowerPoint.Shape，使用物件方法或屬性次數：2次，使用到的方法或屬性為以下：PowerPoint.Shape.GetLayers() 以及 PowerPoint.Shape.SetLayers(int)</HashCode>
+              <Severity>Warning</Severity>
+              <Weight>1</Weight>
+              <Project>PPT</Project>
+              <File>C:\Users\densu\Desktop\視窗\製作HW6\PPT\PPT\Model\Model.cs</File>
+              <Line>137</Line>
+              <StartLine>136</StartLine>
+              <StartCol>0</StartCol>
+              <EndLine>137</EndLine>
+              <EndCol>0</EndCol>
+              <Comment>目前物件 PowerPoint.Model，使用物件的方法或屬性次數：0次，Envy到對象物件 PowerPoint.Shape，使用物件方法或屬性次數：2次，使用到的方法或屬性為以下：PowerPoint.Shape.GetLayers() 以及 PowerPoint.Shape.SetLayers(int)</Comment>
+              <Auto>false</Auto>
+            </Smell>
+            <Smell>
+              <Id>4</Id>
+              <SmellType>Feature Envy(依戀情節)</SmellType>
+              <HashCode>167 目前物件 PowerPoint.Model，使用物件的方法或屬性次數：0次，Envy到對象物件 PowerPoint.Shape，使用物件方法或屬性次數：8次，使用到的方法或屬性為以下：PowerPoint.Shape.GetStartPoint() 以及 PowerPoint.Shape.GetStartPoint() 以及 PowerPoint.Shape.GetStartPoint() 以及 PowerPoint.Shape.GetStartPoint() 以及 PowerPoint.Shape.GetEndPoint() 以及 PowerPoint.Shape.GetEndPoint() 以及 PowerPoint.Shape.GetEndPoint() 以及 PowerPoint.Shape.GetEndPoint()</HashCode>
+              <Severity>Red</Severity>
+              <Weight>1</Weight>
+              <Project>PPT</Project>
+              <File>C:\Users\densu\Desktop\視窗\製作HW6\PPT\PPT\Model\Model.cs</File>
+              <Line>167</Line>
+              <StartLine>167</StartLine>
+              <StartCol>24</StartCol>
+              <EndLine>167</EndLine>
+              <EndCol>244</EndCol>
+              <Comment>目前物件 PowerPoint.Model，使用物件的方法或屬性次數：0次，Envy到對象物件 PowerPoint.Shape，使用物件方法或屬性次數：8次，使用到的方法或屬性為以下：PowerPoint.Shape.GetStartPoint() 以及 PowerPoint.Shape.GetStartPoint() 以及 PowerPoint.Shape.GetStartPoint() 以及 PowerPoint.Shape.GetStartPoint() 以及 PowerPoint.Shape.GetEndPoint() 以及 PowerPoint.Shape.GetEndPoint() 以及 PowerPoint.Shape.GetEndPoint() 以及 PowerPoint.Shape.GetEndPoint()</Comment>
+              <Auto>false</Auto>
+            </Smell>
+            <Smell>
+              <Id>5</Id>
+              <SmellType>Feature Envy(依戀情節)</SmellType>
+              <HashCode>167 目前物件 PowerPoint.Model，使用物件的方法或屬性次數：0次，Envy到對象物件 PowerPoint.Point，使用物件方法或屬性次數：8次，使用到的方法或屬性為以下：PowerPoint.Point.X 以及 PowerPoint.Point.X 以及 PowerPoint.Point.Y 以及 PowerPoint.Point.Y 以及 PowerPoint.Point.X 以及 PowerPoint.Point.X 以及 PowerPoint.Point.Y 以及 PowerPoint.Point.Y</HashCode>
+              <Severity>Red</Severity>
+              <Weight>1</Weight>
+              <Project>PPT</Project>
+              <File>C:\Users\densu\Desktop\視窗\製作HW6\PPT\PPT\Model\Model.cs</File>
+              <Line>167</Line>
+              <StartLine>167</StartLine>
+              <StartCol>24</StartCol>
+              <EndLine>167</EndLine>
+              <EndCol>244</EndCol>
+              <Comment>目前物件 PowerPoint.Model，使用物件的方法或屬性次數：0次，Envy到對象物件 PowerPoint.Point，使用物件方法或屬性次數：8次，使用到的方法或屬性為以下：PowerPoint.Point.X 以及 PowerPoint.Point.X 以及 PowerPoint.Point.Y 以及 PowerPoint.Point.Y 以及 PowerPoint.Point.X 以及 PowerPoint.Point.X 以及 PowerPoint.Point.Y 以及 PowerPoint.Point.Y</Comment>
+              <Auto>false</Auto>
+            </Smell>
+          </Reviews>
+          <HashCodeIgnoreList />
+          <HashCodeRequestIgnoreList>
+            <string>135 目前物件 PowerPoint.Model，使用物件的方法或屬性次數：0次，Envy到對象物件 PowerPoint.IState，使用物件方法或屬性次數：2次，使用到的方法或屬性為以下：PowerPoint.IState.MousePressed(string, double, double) 以及 PowerPoint.IState.MousePressed(string, double, double)</string>
+            <string>136 目前物件 PowerPoint.Model，使用物件的方法或屬性次數：0次，Envy到對象物件 PowerPoint.Shape，使用物件方法或屬性次數：3次，使用到的方法或屬性為以下：PowerPoint.Shape.GetStartPoint() 以及 PowerPoint.Shape.GetEndPoint() 以及 PowerPoint.Shape.SetPosition(PowerPoint.Point, PowerPoint.Point)</string>
+            <string>137 目前物件 PowerPoint.Model，使用物件的方法或屬性次數：0次，Envy到對象物件 PowerPoint.Shape，使用物件方法或屬性次數：2次，使用到的方法或屬性為以下：PowerPoint.Shape.GetLayers() 以及 PowerPoint.Shape.SetLayers(int)</string>
+            <string>167 目前物件 PowerPoint.Model，使用物件的方法或屬性次數：0次，Envy到對象物件 PowerPoint.Shape，使用物件方法或屬性次數：8次，使用到的方法或屬性為以下：PowerPoint.Shape.GetStartPoint() 以及 PowerPoint.Shape.GetStartPoint() 以及 PowerPoint.Shape.GetStartPoint() 以及 PowerPoint.Shape.GetStartPoint() 以及 PowerPoint.Shape.GetEndPoint() 以及 PowerPoint.Shape.GetEndPoint() 以及 PowerPoint.Shape.GetEndPoint() 以及 PowerPoint.Shape.GetEndPoint()</string>
+            <string>167 目前物件 PowerPoint.Model，使用物件的方法或屬性次數：0次，Envy到對象物件 PowerPoint.Point，使用物件方法或屬性次數：8次，使用到的方法或屬性為以下：PowerPoint.Point.X 以及 PowerPoint.Point.X 以及 PowerPoint.Point.Y 以及 PowerPoint.Point.Y 以及 PowerPoint.Point.X 以及 PowerPoint.Point.X 以及 PowerPoint.Point.Y 以及 PowerPoint.Point.Y</string>
+          </HashCodeRequestIgnoreList>
+          <AnalysisFileManager>
+            <AnalysisFiles>
+              <AnalysisFile>
+                <RelativePath>CommanPattern\CommandManager.cs</RelativePath>
+                <ProjectName>PPT</ProjectName>
+                <AnalysisFileType>Model</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>CommanPattern\DeleteCommand.cs</RelativePath>
+                <ProjectName>PPT</ProjectName>
+                <AnalysisFileType>Model</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>CommanPattern\DrawCommand.cs</RelativePath>
+                <ProjectName>PPT</ProjectName>
+                <AnalysisFileType>Model</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>CommanPattern\ICommand.cs</RelativePath>
+                <ProjectName>PPT</ProjectName>
+                <AnalysisFileType>Model</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>CommanPattern\MoveCommand.cs</RelativePath>
+                <ProjectName>PPT</ProjectName>
+                <AnalysisFileType>Model</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>CommanPattern\RandomCreateCommand.cs</RelativePath>
+                <ProjectName>PPT</ProjectName>
+                <AnalysisFileType>Model</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>Expansion\Constant.cs</RelativePath>
+                <ProjectName>PPT</ProjectName>
+                <AnalysisFileType>Model</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>Expansion\Point.cs</RelativePath>
+                <ProjectName>PPT</ProjectName>
+                <AnalysisFileType>Model</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>Model\IGraphics.cs</RelativePath>
+                <ProjectName>PPT</ProjectName>
+                <AnalysisFileType>Model</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>Model\Model.cs</RelativePath>
+                <ProjectName>PPT</ProjectName>
+                <AnalysisFileType>Model</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>Model\PresentationModel.cs</RelativePath>
+                <ProjectName>PPT</ProjectName>
+                <AnalysisFileType>Model</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>Program.cs</RelativePath>
+                <ProjectName>PPT</ProjectName>
+                <AnalysisFileType>ViewOrController</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>Properties\AssemblyInfo.cs</RelativePath>
+                <ProjectName>PPT</ProjectName>
+                <AnalysisFileType>Model</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>Properties\Resources.Designer.cs</RelativePath>
+                <ProjectName>PPT</ProjectName>
+                <AnalysisFileType>Designer</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>Properties\Settings.Designer.cs</RelativePath>
+                <ProjectName>PPT</ProjectName>
+                <AnalysisFileType>Designer</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>Shape\Circle.cs</RelativePath>
+                <ProjectName>PPT</ProjectName>
+                <AnalysisFileType>Model</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>Shape\Factory.cs</RelativePath>
+                <ProjectName>PPT</ProjectName>
+                <AnalysisFileType>Model</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>Shape\Line.cs</RelativePath>
+                <ProjectName>PPT</ProjectName>
+                <AnalysisFileType>Model</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>Shape\Rectangle.cs</RelativePath>
+                <ProjectName>PPT</ProjectName>
+                <AnalysisFileType>Model</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>Shape\Shape.cs</RelativePath>
+                <ProjectName>PPT</ProjectName>
+                <AnalysisFileType>Model</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>Shape\Shapes.cs</RelativePath>
+                <ProjectName>PPT</ProjectName>
+                <AnalysisFileType>Model</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>StatePattern\DrawingState.cs</RelativePath>
+                <ProjectName>PPT</ProjectName>
+                <AnalysisFileType>Model</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>StatePattern\IState.cs</RelativePath>
+                <ProjectName>PPT</ProjectName>
+                <AnalysisFileType>Model</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>StatePattern\PointState.cs</RelativePath>
+                <ProjectName>PPT</ProjectName>
+                <AnalysisFileType>Model</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>StatePattern\ZoomState.cs</RelativePath>
+                <ProjectName>PPT</ProjectName>
+                <AnalysisFileType>Model</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>View\DoubleBufferedPanel.cs</RelativePath>
+                <ProjectName>PPT</ProjectName>
+                <AnalysisFileType>ViewOrController</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>View\Form1.cs</RelativePath>
+                <ProjectName>PPT</ProjectName>
+                <AnalysisFileType>ViewOrController</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>View\Form1.Designer.cs</RelativePath>
+                <ProjectName>PPT</ProjectName>
+                <AnalysisFileType>Designer</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>View\WindowsFormsGraphicsAdaptor.cs</RelativePath>
+                <ProjectName>PPT</ProjectName>
+                <AnalysisFileType>ViewOrController</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>CommanPattern\CommandManagerTests.cs</RelativePath>
+                <ProjectName>PPTTests</ProjectName>
+                <AnalysisFileType>Test</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>CommanPattern\DeleteCommandTests.cs</RelativePath>
+                <ProjectName>PPTTests</ProjectName>
+                <AnalysisFileType>Test</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>CommanPattern\DrawCommandTests.cs</RelativePath>
+                <ProjectName>PPTTests</ProjectName>
+                <AnalysisFileType>Test</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>CommanPattern\MoveCommandTests.cs</RelativePath>
+                <ProjectName>PPTTests</ProjectName>
+                <AnalysisFileType>Test</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>CommanPattern\RandomCreateCommandTests.cs</RelativePath>
+                <ProjectName>PPTTests</ProjectName>
+                <AnalysisFileType>Test</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>Mock\MockCommand.cs</RelativePath>
+                <ProjectName>PPTTests</ProjectName>
+                <AnalysisFileType>Test</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>Mock\MockGraphics.cs</RelativePath>
+                <ProjectName>PPTTests</ProjectName>
+                <AnalysisFileType>Test</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>Mock\MockModel.cs</RelativePath>
+                <ProjectName>PPTTests</ProjectName>
+                <AnalysisFileType>Test</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>Model\ModelTests.cs</RelativePath>
+                <ProjectName>PPTTests</ProjectName>
+                <AnalysisFileType>Test</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>Model\PresentationModelTests.cs</RelativePath>
+                <ProjectName>PPTTests</ProjectName>
+                <AnalysisFileType>Test</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>Properties\AssemblyInfo.cs</RelativePath>
+                <ProjectName>PPTTests</ProjectName>
+                <AnalysisFileType>Test</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>Shape\CircleTests.cs</RelativePath>
+                <ProjectName>PPTTests</ProjectName>
+                <AnalysisFileType>Test</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>Shape\FactoryTests.cs</RelativePath>
+                <ProjectName>PPTTests</ProjectName>
+                <AnalysisFileType>Test</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>Shape\LineTests.cs</RelativePath>
+                <ProjectName>PPTTests</ProjectName>
+                <AnalysisFileType>Test</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>Shape\RectangleTests.cs</RelativePath>
+                <ProjectName>PPTTests</ProjectName>
+                <AnalysisFileType>Test</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>Shape\ShapesTests.cs</RelativePath>
+                <ProjectName>PPTTests</ProjectName>
+                <AnalysisFileType>Test</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>StatePattern\DrawingStateTests.cs</RelativePath>
+                <ProjectName>PPTTests</ProjectName>
+                <AnalysisFileType>Test</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>StatePattern\PointStateTests.cs</RelativePath>
+                <ProjectName>PPTTests</ProjectName>
+                <AnalysisFileType>Test</AnalysisFileType>
+              </AnalysisFile>
+              <AnalysisFile>
+                <RelativePath>StatePattern\ZoomStateTests.cs</RelativePath>
+                <ProjectName>PPTTests</ProjectName>
+                <AnalysisFileType>Test</AnalysisFileType>
+              </AnalysisFile>
+            </AnalysisFiles>
+          </AnalysisFileManager>
+          <ProductionLoc>2532</ProductionLoc>
+          <TestLoc>1851</TestLoc>
+        </CodeReview>
+      </Data>
+    </div>
+  </body>
+</html>

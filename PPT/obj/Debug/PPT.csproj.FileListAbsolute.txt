@@ -1,0 +1,71 @@
+C:\Users\densu\Desktop\視窗\製作HW2\PPT\PPT\bin\Debug\PPT.exe.config
+C:\Users\densu\Desktop\視窗\製作HW2\PPT\PPT\bin\Debug\PPT.exe
+C:\Users\densu\Desktop\視窗\製作HW2\PPT\PPT\bin\Debug\PPT.pdb
+C:\Users\densu\Desktop\視窗\製作HW2\PPT\PPT\obj\Debug\PPT.csproj.AssemblyReference.cache
+C:\Users\densu\Desktop\視窗\製作HW2\PPT\PPT\obj\Debug\PPT.Properties.Resources.resources
+C:\Users\densu\Desktop\視窗\製作HW2\PPT\PPT\obj\Debug\PPT.csproj.GenerateResource.cache
+C:\Users\densu\Desktop\視窗\製作HW2\PPT\PPT\obj\Debug\PPT.csproj.CoreCompileInputs.cache
+C:\Users\densu\Desktop\視窗\製作HW2\PPT\PPT\obj\Debug\PPT.exe
+C:\Users\densu\Desktop\視窗\製作HW2\PPT\PPT\obj\Debug\PPT.pdb
+C:\Users\densu\Desktop\視窗\製作HW2\PPT\PPT\obj\Debug\PowerPoint.Form1.resources
+C:\Users\densu\Desktop\視窗\製作HW2 - 複製\PPT\PPT\bin\Debug\PPT.exe.config
+C:\Users\densu\Desktop\視窗\製作HW2 - 複製\PPT\PPT\bin\Debug\PPT.exe
+C:\Users\densu\Desktop\視窗\製作HW2 - 複製\PPT\PPT\bin\Debug\PPT.pdb
+C:\Users\densu\Desktop\視窗\製作HW2 - 複製\PPT\PPT\obj\Debug\PPT.csproj.AssemblyReference.cache
+C:\Users\densu\Desktop\視窗\製作HW2 - 複製\PPT\PPT\obj\Debug\PowerPoint.Form1.resources
+C:\Users\densu\Desktop\視窗\製作HW2 - 複製\PPT\PPT\obj\Debug\PPT.Properties.Resources.resources
+C:\Users\densu\Desktop\視窗\製作HW2 - 複製\PPT\PPT\obj\Debug\PPT.csproj.GenerateResource.cache
+C:\Users\densu\Desktop\視窗\製作HW2 - 複製\PPT\PPT\obj\Debug\PPT.csproj.CoreCompileInputs.cache
+C:\Users\densu\Desktop\視窗\製作HW2 - 複製\PPT\PPT\obj\Debug\PPT.exe
+C:\Users\densu\Desktop\視窗\製作HW2 - 複製\PPT\PPT\obj\Debug\PPT.pdb
+C:\Users\densu\Desktop\視窗\製作HW3\PPT\PPT\bin\Debug\PPT.exe.config
+C:\Users\densu\Desktop\視窗\製作HW3\PPT\PPT\bin\Debug\PPT.exe
+C:\Users\densu\Desktop\視窗\製作HW3\PPT\PPT\bin\Debug\PPT.pdb
+C:\Users\densu\Desktop\視窗\製作HW3\PPT\PPT\obj\Debug\PPT.csproj.AssemblyReference.cache
+C:\Users\densu\Desktop\視窗\製作HW3\PPT\PPT\obj\Debug\PowerPoint.Form1.resources
+C:\Users\densu\Desktop\視窗\製作HW3\PPT\PPT\obj\Debug\PPT.Properties.Resources.resources
+C:\Users\densu\Desktop\視窗\製作HW3\PPT\PPT\obj\Debug\PPT.csproj.GenerateResource.cache
+C:\Users\densu\Desktop\視窗\製作HW3\PPT\PPT\obj\Debug\PPT.csproj.CoreCompileInputs.cache
+C:\Users\densu\Desktop\視窗\製作HW3\PPT\PPT\obj\Debug\PPT.exe
+C:\Users\densu\Desktop\視窗\製作HW3\PPT\PPT\obj\Debug\PPT.pdb
+C:\Users\densu\Desktop\視窗\製作HW4\PPT\PPT\bin\Debug\PPT.exe.config
+C:\Users\densu\Desktop\視窗\製作HW4\PPT\PPT\bin\Debug\PPT.exe
+C:\Users\densu\Desktop\視窗\製作HW4\PPT\PPT\bin\Debug\PPT.pdb
+C:\Users\densu\Desktop\視窗\製作HW4\PPT\PPT\obj\Debug\PPT.csproj.AssemblyReference.cache
+C:\Users\densu\Desktop\視窗\製作HW4\PPT\PPT\obj\Debug\PowerPoint.Form1.resources
+C:\Users\densu\Desktop\視窗\製作HW4\PPT\PPT\obj\Debug\PPT.Properties.Resources.resources
+C:\Users\densu\Desktop\視窗\製作HW4\PPT\PPT\obj\Debug\PPT.csproj.GenerateResource.cache
+C:\Users\densu\Desktop\視窗\製作HW4\PPT\PPT\obj\Debug\PPT.csproj.CoreCompileInputs.cache
+C:\Users\densu\Desktop\視窗\製作HW4\PPT\PPT\obj\Debug\PPT.exe
+C:\Users\densu\Desktop\視窗\製作HW4\PPT\PPT\obj\Debug\PPT.pdb
+C:\Users\densu\Desktop\視窗\製作HW5最終章\PPT\PPT\bin\Debug\PPT.exe.config
+C:\Users\densu\Desktop\視窗\製作HW5最終章\PPT\PPT\bin\Debug\PPT.exe
+C:\Users\densu\Desktop\視窗\製作HW5最終章\PPT\PPT\bin\Debug\PPT.pdb
+C:\Users\densu\Desktop\視窗\製作HW5最終章\PPT\PPT\obj\Debug\PPT.csproj.AssemblyReference.cache
+C:\Users\densu\Desktop\視窗\製作HW5最終章\PPT\PPT\obj\Debug\PowerPoint.Form1.resources
+C:\Users\densu\Desktop\視窗\製作HW5最終章\PPT\PPT\obj\Debug\PPT.Properties.Resources.resources
+C:\Users\densu\Desktop\視窗\製作HW5最終章\PPT\PPT\obj\Debug\PPT.csproj.GenerateResource.cache
+C:\Users\densu\Desktop\視窗\製作HW5最終章\PPT\PPT\obj\Debug\PPT.csproj.CoreCompileInputs.cache
+C:\Users\densu\Desktop\視窗\製作HW5最終章\PPT\PPT\obj\Debug\PPT.exe
+C:\Users\densu\Desktop\視窗\製作HW5最終章\PPT\PPT\obj\Debug\PPT.pdb
+C:\Users\densu\Desktop\視窗\製作HW6\PPT\PPT\bin\Debug\PPT.exe.config
+C:\Users\densu\Desktop\視窗\製作HW6\PPT\PPT\bin\Debug\PPT.exe
+C:\Users\densu\Desktop\視窗\製作HW6\PPT\PPT\bin\Debug\PPT.pdb
+C:\Users\densu\Desktop\視窗\製作HW6\PPT\PPT\obj\Debug\PPT.csproj.AssemblyReference.cache
+C:\Users\densu\Desktop\視窗\製作HW6\PPT\PPT\obj\Debug\PowerPoint.Form1.resources
+C:\Users\densu\Desktop\視窗\製作HW6\PPT\PPT\obj\Debug\PPT.Properties.Resources.resources
+C:\Users\densu\Desktop\視窗\製作HW6\PPT\PPT\obj\Debug\PPT.csproj.GenerateResource.cache
+C:\Users\densu\Desktop\視窗\製作HW6\PPT\PPT\obj\Debug\PPT.csproj.CoreCompileInputs.cache
+C:\Users\densu\Desktop\視窗\製作HW6\PPT\PPT\obj\Debug\PPT.exe
+C:\Users\densu\Desktop\視窗\製作HW6\PPT\PPT\obj\Debug\PPT.pdb
+C:\Users\densu\Desktop\視窗\製作HW7\PPT\PPT\bin\Debug\PPT.exe.config
+C:\Users\densu\Desktop\視窗\製作HW7\PPT\PPT\bin\Debug\PPT.exe
+C:\Users\densu\Desktop\視窗\製作HW7\PPT\PPT\bin\Debug\PPT.pdb
+C:\Users\densu\Desktop\視窗\製作HW7\PPT\PPT\obj\Debug\PPT.csproj.AssemblyReference.cache
+C:\Users\densu\Desktop\視窗\製作HW7\PPT\PPT\obj\Debug\PPT.View.CoordinateInputForm.resources
+C:\Users\densu\Desktop\視窗\製作HW7\PPT\PPT\obj\Debug\PowerPoint.Form1.resources
+C:\Users\densu\Desktop\視窗\製作HW7\PPT\PPT\obj\Debug\PPT.Properties.Resources.resources
+C:\Users\densu\Desktop\視窗\製作HW7\PPT\PPT\obj\Debug\PPT.csproj.GenerateResource.cache
+C:\Users\densu\Desktop\視窗\製作HW7\PPT\PPT\obj\Debug\PPT.csproj.CoreCompileInputs.cache
+C:\Users\densu\Desktop\視窗\製作HW7\PPT\PPT\obj\Debug\PPT.exe
+C:\Users\densu\Desktop\視窗\製作HW7\PPT\PPT\obj\Debug\PPT.pdb
